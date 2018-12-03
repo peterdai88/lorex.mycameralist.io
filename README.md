@@ -1,2 +1,2 @@
-# lorex.mycameralist-0001
+# lorex.mycameralist.co
 It is my learning practice.
